@@ -58,6 +58,12 @@ Use an Ethereum development environment like Remix, Truffle, or Hardhat to deplo
 
 2. Approval Event: Emitted when an approval is made.
 
+## Compiling
+
+Compiling via Remix - Ethereum IDE
+
+![REMIX](https://github.com/user-attachments/assets/4faa4a09-64e5-4d9f-a64b-c7085fa0f0d2)
+
 ## License
 
 This project is licensed under the GPL-3.0 License.
